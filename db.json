@@ -11,9 +11,35 @@
   "profile": {
     "name": "typicode"
   },
-  "fruits": [
-    { "id": 1, "name" : "蘋果" , "amount": 10 },  
-    { "id": 2, "name" : "橘子" , "amount": 5 },
-    { "id": 3, "name" : "香蕉" , "amount": 100 }
-  ]
+ awardData : {
+            award : {
+                1 : {
+                    i : 4,
+                    l : 2,
+                    s : 3,
+                },
+                2 : {
+                    i : 8,
+                    l : 3,
+                    s : 10,
+                },
+                3 : {
+                    i : 10,
+                    l : 3,
+                    s : 3,
+                },
+                4 : {
+                    i : 12,
+                    l : 2,
+                    s : 3,
+                },
+                5 : {
+                    i : 13,
+                    l : 3,
+                    s : 10,
+                },
+            },
+            prize : 108,
+            times : 0,
+   }
 }
